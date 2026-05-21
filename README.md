@@ -97,16 +97,6 @@ Saya mahasiswa Teknik Informatika (semester 6) yang suka membangun mobile apps, 
 
 ---
 
-**Featured Projects**
-
-| Project | Deskripsi | Tech | Repo |
-|---|---|---|---|
-| **FoodSaver Mobile App** | Mobile app untuk tracking makanan & pengingat tanggal kadaluarsa. | Kotlin · Firebase · Room · WorkManager | (placeholder: link repo)
-| **Sistem Informasi Web** | Web app dengan role-based access dan dashboard reporting. | React/Vue · Node or PHP · MySQL | (placeholder: link repo)
-| **Data Mining Project** | Project klasifikasi & pipeline evaluasi untuk dataset real-world. | Python · pandas · scikit-learn | (placeholder: link repo)
-
----
-
 **GitHub Analytics**
 
 <p align="center">
@@ -120,8 +110,6 @@ Saya mahasiswa Teknik Informatika (semester 6) yang suka membangun mobile apps, 
   <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.gif" alt="contribution-snake" style="max-width:380px;" />
 </p>
 
-> Ganti `rdtngh` pada username GitHub jika perlu, saat ini sudah diset ke `rdtngh`.
-
 ---
 
 **Connect With Me**
@@ -130,18 +118,5 @@ Saya mahasiswa Teknik Informatika (semester 6) yang suka membangun mobile apps, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raditya%20Alrasyid-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raditya-alrasyid-376613331?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 [![Instagram](https://img.shields.io/badge/Instagram-@rdtngh-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/rdtngh?igsh=dHExcGdvYWltcGR4)  
 [![Email](https://img.shields.io/badge/Email-radityalrasyid@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:radityalrasyid@gmail.com)
-
----
-
-**Notes / Next Steps**
-
-- Tambahkan link repo & screenshot pada bagian Featured Projects.  
-- Jika ingin personalisasi warna theme, ubah parameter `theme` pada gambar analytics.
-
----
-
-**Closing**
-
-_Building ideas into real digital products._
 
 ---

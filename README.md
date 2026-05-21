@@ -1,95 +1,126 @@
+<!-- Header: Futuristic, centered -->
 <p align="center">
-	<strong style="font-size:32px">Raditya Alrasyid Nugroho</strong><br>
-	<em>Informatics Student | Future Software Engineer | Tech Explorer</em>
-	<svg width="60" height="20" viewBox="0 0 60 20" style="vertical-align:middle; margin-left:8px">
-		<rect x="0" y="14" width="2" height="6" fill="#7dd3fc">
-			<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-		</rect>
-	</svg>
+  <svg width="100%" height="80" viewBox="0 0 1200 120" preserveAspectRatio="none" style="display:block;margin-bottom:8px">
+    <defs>
+      <linearGradient id="g1" x1="0" x2="1">
+        <stop offset="0%" stop-color="#022f40" />
+        <stop offset="50%" stop-color="#003a5a" />
+        <stop offset="100%" stop-color="#052f4b" />
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="120" fill="url(#g1)" />
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#7dd3fc" font-family="Fira Code, monospace" font-size="28">Raditya Alrasyid Nugroho</text>
+    <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" fill="#9ad6f7" font-family="Inter, sans-serif" font-size="12">Informatics Student • Future Software Engineer • Tech Explorer</text>
+  </svg>
+
+  <!-- Typing animation (readme-typing-svg) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=7dd3fc&center=true&width=650&lines=Mobile+Development;Web+Development;Data+Science;Machine+Learning;Software+Engineering" alt="typing" />
+
+  <!-- small futuristic GIF (decorative) -->
+  <div style="margin-top:10px">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="coding-gif" width="220" style="border-radius:6px;" />
+  </div>
 </p>
+
+<!-- Animated divider (subtle wave) -->
+<div align="center">
+  <svg viewBox="0 0 1200 40" width="100%" height="40" preserveAspectRatio="none"><path d="M0 20 C 300 40 900 0 1200 20 L1200 40 L0 40 Z" fill="#001b26"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 20 C 300 40 900 0 1200 20 L1200 40 L0 40 Z; M0 20 C 300 0 900 40 1200 20 L1200 40 L0 40 Z; M0 20 C 300 40 900 0 1200 20 L1200 40 L0 40 Z"/></path></svg>
+</div>
 
 ---
 
-<!-- Terminal-style intro -->
+<!-- Terminal-style introduction: expanded -->
 ```bash
 # ┌─[ rdtngh@github ] - ~
-whoami: Raditya Alrasyid Nugroho
-status: Mahasiswa Informatika — Semester 6
-interests: Mobile Development · Web Development · Data Science · Machine Learning · Software Engineering
-currently_learning: Advanced Kotlin · ML pipelines · System Design
-goals:
-	- Build scalable mobile & web apps
-	- Contribute to impactful open-source
-	- Ship data-driven products
-# └─[ ~ ]──────────────────────────────────────────────
+$ whoami
+Raditya Alrasyid Nugroho
+
+$ cat interests.txt
+Mobile Development
+Web Development
+Data Science
+Machine Learning
+Software Engineering
+
+$ cat currently_learning.txt
+Advanced Kotlin
+ML pipelines
+System Design
+
+$ cat goals.txt
+- Build scalable mobile & web apps
+- Contribute to impactful open-source
+- Ship data-driven products
+
+$ uname -a
+Linux rdtngh 5.x x86_64 (placeholder)
+# └─[ ready ]──────────────────────────────────────────
 ```
 
 ---
 
 **About Me**
 
-Saya mahasiswa Informatika semester 6 yang senang membangun aplikasi mobile & web, eksplor data, dan menerapkan Machine Learning ke masalah nyata. Fokus saya: clean code, pragmatic design, dan learning-by-doing. Simple, practical, and forward-thinking.
+Saya mahasiswa Teknik Informatika (semester 6) yang suka membangun mobile apps, web apps, dan eksperimen dengan data & AI. Selain ngoding, saya suka mendesain UI/UX sederhana yang usable. Saya belajar dengan praktik—build small, ship fast.
 
 ---
 
 **Tech Stack**
-<div align="center">
-	<img alt="HTML" src="https://skillicons.dev/icons?i=html" height="36" />&nbsp;
-	<img alt="CSS" src="https://skillicons.dev/icons?i=css" height="36" />&nbsp;
-	<img alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="36" />&nbsp;
-	<img alt="React" src="https://skillicons.dev/icons?i=react" height="36" />&nbsp;
-	<img alt="Python" src="https://skillicons.dev/icons?i=python" height="36" />&nbsp;
-	<img alt="Java" src="https://skillicons.dev/icons?i=java" height="36" />&nbsp;
-	<img alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin" height="36" />&nbsp;
-	<img alt="PHP" src="https://skillicons.dev/icons?i=php" height="36" />&nbsp;
-	<img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="36" />&nbsp;
-	<img alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="36" />&nbsp;
-	<img alt="Git" src="https://skillicons.dev/icons?i=git" height="36" />&nbsp;
-	<img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="36" />&nbsp;
-	<img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="36" />&nbsp;
-	<img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio" height="36" />
-</div>
 
-_Tools I use_: VS Code · Android Studio · Git · GitHub · MySQL · Firebase · Figma
+<div align="center">
+
+**Languages**  
+<img alt="HTML" src="https://skillicons.dev/icons?i=html" height="28"/> <img alt="CSS" src="https://skillicons.dev/icons?i=css" height="28"/> <img alt="JS" src="https://skillicons.dev/icons?i=js" height="28"/> <img alt="Java" src="https://skillicons.dev/icons?i=java" height="28"/> <img alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin" height="28"/> <img alt="Python" src="https://skillicons.dev/icons?i=python" height="28"/>
+
+**Frontend**  
+<img alt="React" src="https://skillicons.dev/icons?i=react" height="28"/> <img alt="HTML5" src="https://skillicons.dev/icons?i=html" height="28"/> <img alt="CSS3" src="https://skillicons.dev/icons?i=css" height="28"/>
+
+**Mobile Development**  
+<img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio" height="28"/> <img alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin" height="28"/>
+
+**Database & Backend**  
+<img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="28"/> <img alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="28"/> <img alt="PHP" src="https://skillicons.dev/icons?i=php" height="28"/>
+
+**Tools**  
+<img alt="Git" src="https://skillicons.dev/icons?i=git" height="28"/> <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="28"/> <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="28"/> <img alt="Figma" src="https://skillicons.dev/icons?i=figma" height="28"/>
+
+</div>
 
 ---
 
 **Currently Working On**
-- FoodSaver — aplikasi mobile untuk tracking makanan dan reminder expired date (Kotlin · Firebase · MVVM)
-- Sistem Informasi berbasis web — CRUD, reporting, user roles (React/Vue · Node/PHP · MySQL)
-- Data mining / Machine Learning project — preprocessing → modeling → evaluation (Python · scikit-learn · pandas)
-- UI/UX design untuk aplikasi mobile — prototyping & user flows (Figma)
 
----
-
-**GitHub Analytics**
-
-<!-- GitHub Readme Stats (theme: tokyonight) -->
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=rdtngh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtngh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=rdtngh&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-> Catatan: Jika beberapa widget tidak tampil, periksa koneksi ke layanan `github-readme-stats` atau ganti theme ke `github_dark` / `radical`.
+- **FoodSaver** — aplikasi mobile untuk tracking makanan + reminder expired date. (Kotlin · Firebase · MVVM)  
+- **Sistem Informasi (Web)** — sistem berbasis web untuk manajemen data & reporting. (React/Vue · Node/PHP · MySQL)  
+- **Data Mining / ML** — pipeline data cleaning, feature engineering, modeling. (Python · scikit-learn)  
+- **UI/UX Design** — prototyping & design flow untuk mobile apps. (Figma)
 
 ---
 
 **Featured Projects**
 
-> FoodSaver Mobile App  
-> A mobile app to track stored food, set expiry reminders, and reduce waste.  
-> Tech: Kotlin · Firebase · WorkManager · Room
+| Project | Deskripsi | Tech | Repo |
+|---|---|---|---|
+| **FoodSaver Mobile App** | Mobile app untuk tracking makanan & pengingat tanggal kadaluarsa. | Kotlin · Firebase · Room · WorkManager | (placeholder: link repo)
+| **Sistem Informasi Web** | Web app dengan role-based access dan dashboard reporting. | React/Vue · Node or PHP · MySQL | (placeholder: link repo)
+| **Data Mining Project** | Project klasifikasi & pipeline evaluasi untuk dataset real-world. | Python · pandas · scikit-learn | (placeholder: link repo)
 
-> Sistem Informasi Web  
-> Web-based information system with role-based access and reporting dashboard.  
-> Tech: React/HTML · CSS · Node or PHP · MySQL
+---
 
-> Data Mining Project  
-> Pipelines for data cleaning, feature engineering, and classification models.  
-> Tech: Python · pandas · scikit-learn · Jupyter
+**GitHub Analytics**
 
-(Placeholder: link repos & screenshots — isi sendiri dengan link repo masing-masing)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdtngh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtngh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdtngh&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Contribution snake (optional) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.gif" alt="contribution-snake" style="max-width:380px;" />
+</p>
+
+> Ganti `rdtngh` pada username GitHub jika perlu, saat ini sudah diset ke `rdtngh`.
 
 ---
 
@@ -102,16 +133,15 @@ _Tools I use_: VS Code · Android Studio · Git · GitHub · MySQL · Firebase �
 
 ---
 
-**Notes / Placeholder**
-- Resume / CV: (tambahkan link PDF atau Google Drive di sini)
-- Screenshots: (tambahkan folder `assets/` dan isi gambar proyek)
-- Demo APK / Live: (tambahkan link jika tersedia)
+**Notes / Next Steps**
+
+- Tambahkan link repo & screenshot pada bagian Featured Projects.  
+- Jika ingin personalisasi warna theme, ubah parameter `theme` pada gambar analytics.
 
 ---
 
 **Closing**
 
-Building ideas into real digital products.
+_Building ideas into real digital products._
 
 ---
-

@@ -67,20 +67,23 @@ Informatics student with a passion for building applications that matter. I focu
 </div>
 
 ---
-
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rdtngh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdtngh&theme=tokyonight" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtngh&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rdtngh&theme=tokyonight" alt="Repos per Language" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rdtngh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rdtngh&theme=tokyonight" alt="Most Commit Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rdtngh&theme=tokyonight" alt="Profile Details" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=rdtngh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
 
 ## Featured Projects
 

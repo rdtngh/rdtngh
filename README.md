@@ -1,5 +1,32 @@
-<!-- Header: Futuristic, centered -->
+<!-- Header: Futuristic, centered with popup animation -->
 <p align="center">
+  <style>
+    @keyframes popupName {
+      0% {
+        opacity: 0;
+        transform: scale(0.5) translateY(-20px);
+      }
+      50% {
+        opacity: 1;
+        transform: scale(1.05);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+    @keyframes glowPulse {
+      0%, 100% {
+        filter: drop-shadow(0 0 5px #7dd3fc);
+      }
+      50% {
+        filter: drop-shadow(0 0 15px #7dd3fc) drop-shadow(0 0 25px #0ea5e9);
+      }
+    }
+    .popup-name {
+      animation: popupName 0.8s ease-out forwards, glowPulse 2s ease-in-out infinite 0.8s;
+    }
+  </style>
   <svg width="100%" height="80" viewBox="0 0 1200 120" preserveAspectRatio="none" style="display:block;margin-bottom:8px">
     <defs>
       <linearGradient id="g1" x1="0" x2="1">
@@ -9,7 +36,7 @@
       </linearGradient>
     </defs>
     <rect width="1200" height="120" fill="url(#g1)" />
-    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#7dd3fc" font-family="Fira Code, monospace" font-size="28">Raditya Alrasyid Nugroho</text>
+    <text class="popup-name" x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#7dd3fc" font-family="Fira Code, monospace" font-size="28" font-weight="bold">⚡ Raditya Alrasyid Nugroho ⚡</text>
     <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" fill="#9ad6f7" font-family="Inter, sans-serif" font-size="12">Informatics Student • Future Software Engineer • Tech Explorer</text>
   </svg>
 
@@ -61,7 +88,7 @@ Linux rdtngh 5.x x86_64 (placeholder)
 
 **About Me**
 
-Saya mahasiswa Teknik Informatika (semester 6) yang suka membangun mobile apps, web apps, dan eksperimen dengan data & AI. Selain ngoding, saya suka mendesain UI/UX sederhana yang usable. Saya belajar dengan praktik—build small, ship fast.
+Saya mahasiswa Teknik Informatika (semester 6) yang suka membangun mobile apps, web apps, dan eksperimen dengan data & AI. Selain ngoding, Saya juga belajar dengan praktik—build small, ship fast.
 
 ---
 
@@ -88,60 +115,97 @@ Saya mahasiswa Teknik Informatika (semester 6) yang suka membangun mobile apps, 
 
 ---
 
-**Currently Working On**
-
-- **FoodSaver** — aplikasi mobile untuk tracking makanan + reminder expired date. (Kotlin · Firebase · MVVM)  
-- **Sistem Informasi (Web)** — sistem berbasis web untuk manajemen data & reporting. (React/Vue · Node/PHP · MySQL)  
-- **Data Mining / ML** — pipeline data cleaning, feature engineering, modeling. (Python · scikit-learn)  
-- **UI/UX Design** — prototyping & design flow untuk mobile apps. (Figma)
-
----
-
-**Featured Projects**
-
-| Project | Deskripsi | Tech | Repo |
-|---|---|---|---|
-| **FoodSaver Mobile App** | Mobile app untuk tracking makanan & pengingat tanggal kadaluarsa. | Kotlin · Firebase · Room · WorkManager | (placeholder: link repo)
-| **Sistem Informasi Web** | Web app dengan role-based access dan dashboard reporting. | React/Vue · Node or PHP · MySQL | (placeholder: link repo)
-| **Data Mining Project** | Project klasifikasi & pipeline evaluasi untuk dataset real-world. | Python · pandas · scikit-learn | (placeholder: link repo)
-
----
-
-**GitHub Analytics**
+**GitHub Analytics** 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdtngh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rdtngh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <!-- Languages and Streak -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtngh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdtngh&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Contribution snake (optional) -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.gif" alt="contribution-snake" style="max-width:380px;" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdtngh&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </p>
 
-> Ganti `rdtngh` pada username GitHub jika perlu, saat ini sudah diset ke `rdtngh`.
+<p align="center">
+  <!-- Contribution snake animation -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.gif" alt="contribution-snake" style="max-width:480px;" />
+</p>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=rdtngh&color=0ea5e9&style=flat-square&label=Profile+Views)  
+  ![GitHub Followers](https://img.shields.io/github/followers/rdtngh?label=Followers&style=flat-square&color=0ea5e9)  
+  ![GitHub Stars](https://img.shields.io/github/stars/rdtngh?label=Stars&style=flat-square&color=0ea5e9)
+  
+</div>
 
 ---
 
-**Connect With Me**
+**📂 Featured Projects** 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-rdtngh-181717?logo=github&logoColor=white)](https://github.com/rdtngh)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raditya%20Alrasyid-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raditya-alrasyid-376613331?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-[![Instagram](https://img.shields.io/badge/Instagram-@rdtngh-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/rdtngh?igsh=dHExcGdvYWltcGR4)  
-[![Email](https://img.shields.io/badge/Email-radityalrasyid@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:radityalrasyid@gmail.com)
+<div align="center">
+  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Coming Soon](#) | Mobile app project showcase | Kotlin, Firebase, Android |
+| [Check My Repos](https://github.com/rdtngh?tab=repositories) | Explore all my projects | Various |
+| [Portfolio](#) | Personal portfolio website | React, JavaScript, CSS |
 
----
-
-**Notes / Next Steps**
-
-- Tambahkan link repo & screenshot pada bagian Featured Projects.  
-- Jika ingin personalisasi warna theme, ubah parameter `theme` pada gambar analytics.
+</div>
 
 ---
 
-**Closing**
+**🎯 Current Learning Goals**
 
-_Building ideas into real digital products._
+```
+📱 Mobile Development → Advanced Kotlin & Jetpack Compose
+🤖 Machine Learning → TensorFlow & Data Science
+🏗️ System Design → Scalable Architecture
+☁️ Cloud Tech → Firebase & AWS basics
+📊 Data Analytics → Python & SQL deep dive
+```
 
 ---
+
+**💡 Fun Facts About Me**
+
+- ⚡ I believe in "Build small, ship fast"
+- 🎮 Love turning ideas into working products
+- 📚 Continuous learner and tech enthusiast
+- 🌍 Open to collaborations and new opportunities
+- 🎨 UI/UX design enthusiast
+
+---
+
+**✨ Connect With Me**
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-rdtngh-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/rdtngh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raditya%20Alrasyid-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/raditya-alrasyid-376613331?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+[![Instagram](https://img.shields.io/badge/Instagram-@rdtngh-E1306C?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/rdtngh?igsh=dHExcGdvYWltcGR4)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:radityalrasyid@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QaMcXlSnrfpMaalfjO/giphy.gif" alt="footer-gif" width="200" />
+  
+  **Made with ❤️ by Raditya Alrasyid Nugroho**
+  
+  *Last updated: May 2026*
+  
+</div>
+
+---
+
+

@@ -1,43 +1,29 @@
 <!-- Header: Futuristic, centered with popup animation -->
 <p align="center">
-  <style>
-    @keyframes popupName {
-      0% {
-        opacity: 0;
-        transform: scale(0.5) translateY(-20px);
-      }
-      50% {
-        opacity: 1;
-        transform: scale(1.05);
-      }
-      100% {
-        opacity: 1;
-        transform: scale(1);
-      }
-    }
-    @keyframes glowPulse {
-      0%, 100% {
-        filter: drop-shadow(0 0 5px #7dd3fc);
-      }
-      50% {
-        filter: drop-shadow(0 0 15px #7dd3fc) drop-shadow(0 0 25px #0ea5e9);
-      }
-    }
-    .popup-name {
-      animation: popupName 0.8s ease-out forwards, glowPulse 2s ease-in-out infinite 0.8s;
-    }
-  </style>
-  <svg width="100%" height="80" viewBox="0 0 1200 120" preserveAspectRatio="none" style="display:block;margin-bottom:8px">
+  <svg width="100%" height="100" viewBox="0 0 1200 120" preserveAspectRatio="none" style="display:block;margin-bottom:8px">
     <defs>
       <linearGradient id="g1" x1="0" x2="1">
         <stop offset="0%" stop-color="#022f40" />
         <stop offset="50%" stop-color="#003a5a" />
         <stop offset="100%" stop-color="#052f4b" />
       </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
     </defs>
     <rect width="1200" height="120" fill="url(#g1)" />
-    <text class="popup-name" x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#7dd3fc" font-family="Fira Code, monospace" font-size="28" font-weight="bold">⚡ Raditya Alrasyid Nugroho ⚡</text>
-    <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" fill="#9ad6f7" font-family="Inter, sans-serif" font-size="12">Informatics Student • Future Software Engineer • Tech Explorer</text>
+    <g>
+      <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#7dd3fc" font-family="Fira Code, monospace" font-size="32" font-weight="bold" filter="url(#glow)">
+        ⚡ Raditya Alrasyid Nugroho ⚡
+        <animate attributeName="opacity" values="0;1;1;1" dur="2s" repeatCount="indefinite" />
+        <animate attributeName="font-size" values="24;32;32;32" dur="2s" repeatCount="indefinite" />
+      </text>
+    </g>
+    <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" fill="#9ad6f7" font-family="Inter, sans-serif" font-size="12">Informatics Student • Future Software Engineer • Tech Explorer</text>
   </svg>
 
   <!-- Typing animation (readme-typing-svg) -->

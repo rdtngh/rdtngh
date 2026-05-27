@@ -1,197 +1,122 @@
-<!-- Header: Futuristic, centered with popup animation -->
+# Raditya Alrasyid Nugroho
+
 <p align="center">
-  <svg width="100%" height="100" viewBox="0 0 1200 120" preserveAspectRatio="none" style="display:block;margin-bottom:8px">
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1">
-        <stop offset="0%" stop-color="#022f40" />
-        <stop offset="50%" stop-color="#003a5a" />
-        <stop offset="100%" stop-color="#052f4b" />
-      </linearGradient>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <rect width="1200" height="120" fill="url(#g1)" />
-    <g>
-      <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#7dd3fc" font-family="Fira Code, monospace" font-size="32" font-weight="bold" filter="url(#glow)">
-        ⚡ Raditya Alrasyid Nugroho ⚡
-        <animate attributeName="opacity" values="0;1;1;1" dur="2s" repeatCount="indefinite" />
-        <animate attributeName="font-size" values="24;32;32;32" dur="2s" repeatCount="indefinite" />
-      </text>
-    </g>
-    <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" fill="#9ad6f7" font-family="Inter, sans-serif" font-size="12">Informatics Student • Future Software Engineer • Tech Explorer</text>
-  </svg>
-
-  <!-- Typing animation (readme-typing-svg) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=7dd3fc&center=true&width=650&lines=Mobile+Development;Web+Development;Data+Science;Machine+Learning;Software+Engineering" alt="typing" />
-
-  <!-- small futuristic GIF (decorative) -->
-  <div style="margin-top:10px">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="coding-gif" width="220" style="border-radius:6px;" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=06B6D4&center=true&width=600&lines=Informatics+Student;Mobile+Developer;Full+Stack+Enthusiast;Data+Science+Explorer;Software+Engineer" alt="Typing SVG" />
 </p>
 
-<!-- Animated divider (subtle wave) -->
-<div align="center">
-  <svg viewBox="0 0 1200 40" width="100%" height="40" preserveAspectRatio="none"><path d="M0 20 C 300 40 900 0 1200 20 L1200 40 L0 40 Z" fill="#001b26"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 20 C 300 40 900 0 1200 20 L1200 40 L0 40 Z; M0 20 C 300 0 900 40 1200 20 L1200 40 L0 40 Z; M0 20 C 300 40 900 0 1200 20 L1200 40 L0 40 Z"/></path></svg>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rdtngh&color=06B6D4&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-<!-- Terminal-style introduction: expanded -->
+## $ whoami
+
 ```bash
-# ┌─[ rdtngh@github ] - ~
 $ whoami
 Raditya Alrasyid Nugroho
 
-$ cat interests.txt
-Mobile Development
-Web Development
-Data Science
-Machine Learning
-Software Engineering
+$ cat profile.txt
+Informatics Student (Semester 6)
+Passionate about mobile & web development
+Interested in data science, AI, and system design
+Focused on building scalable, user-centric applications
 
-$ cat currently_learning.txt
-Advanced Kotlin
-ML pipelines
-System Design
+$ cat current_focus.txt
+- Mobile app development (Android, Kotlin)
+- Full-stack web applications
+- Data science & machine learning
+- Software architecture & best practices
+
+$ cat learning.txt
+Advanced Kotlin & Jetpack Compose
+Machine Learning with TensorFlow
+System Design & Architecture
+Cloud Technologies (Firebase, AWS)
 
 $ cat goals.txt
-- Build scalable mobile & web apps
-- Contribute to impactful open-source
-- Ship data-driven products
-
-$ uname -a
-Linux rdtngh 5.x x86_64 (placeholder)
-# └─[ ready ]──────────────────────────────────────────
+Ship high-quality products that solve real problems
+Contribute to impactful open-source projects
+Build expertise in system design and scalability
 ```
 
 ---
 
-**About Me**
+## About Me
 
-Saya mahasiswa Teknik Informatika (semester 6) yang suka membangun mobile apps, web apps, dan eksperimen dengan data & AI. Selain ngoding, Saya juga belajar dengan praktik—build small, ship fast.
+Informatics student with a passion for building applications that matter. I focus on mobile and web development while exploring data science and AI. I believe in the philosophy: **build small, ship fast, learn continuously**. I'm always eager to collaborate, learn new technologies, and turn ideas into working products.
 
 ---
 
-**Tech Stack**
+## Tech Stack
 
 <div align="center">
 
-**Languages**  
-<img alt="HTML" src="https://skillicons.dev/icons?i=html" height="28"/> <img alt="CSS" src="https://skillicons.dev/icons?i=css" height="28"/> <img alt="JS" src="https://skillicons.dev/icons?i=js" height="28"/> <img alt="Java" src="https://skillicons.dev/icons?i=java" height="28"/> <img alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin" height="28"/> <img alt="Python" src="https://skillicons.dev/icons?i=python" height="28"/>
+### Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,python" height="40" alt="Languages" />
 
-**Frontend**  
-<img alt="React" src="https://skillicons.dev/icons?i=react" height="28"/> <img alt="HTML5" src="https://skillicons.dev/icons?i=html" height="28"/> <img alt="CSS3" src="https://skillicons.dev/icons?i=css" height="28"/>
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,androidstudio" height="40" alt="Frontend & Mobile" />
 
-**Mobile Development**  
-<img alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio" height="28"/> <img alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin" height="28"/>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=mysql,firebase,php" height="40" alt="Backend & Database" />
 
-**Database & Backend**  
-<img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="28"/> <img alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="28"/> <img alt="PHP" src="https://skillicons.dev/icons?i=php" height="28"/>
-
-**Tools**  
-<img alt="Git" src="https://skillicons.dev/icons?i=git" height="28"/> <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="28"/> <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="28"/> <img alt="Figma" src="https://skillicons.dev/icons?i=figma" height="28"/>
+### Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="40" alt="Tools" />
 
 </div>
 
 ---
 
-**GitHub Analytics** 📊
-
-<p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rdtngh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <!-- Languages and Streak -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtngh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdtngh&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdtngh&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <!-- Contribution snake animation -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.gif" alt="contribution-snake" style="max-width:480px;" />
-</p>
+## GitHub Analytics
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rdtngh&color=0ea5e9&style=flat-square&label=Profile+Views)  
-  ![GitHub Followers](https://img.shields.io/github/followers/rdtngh?label=Followers&style=flat-square&color=0ea5e9)  
-  ![GitHub Stars](https://img.shields.io/github/stars/rdtngh?label=Stars&style=flat-square&color=0ea5e9)
-  
-</div>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=rdtngh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-**📂 Featured Projects** 🚀
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtngh&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
-<div align="center">
-  
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Coming Soon](#) | Mobile app project showcase | Kotlin, Firebase, Android |
-| [Check My Repos](https://github.com/rdtngh?tab=repositories) | Explore all my projects | Various |
-| [Portfolio](#) | Personal portfolio website | React, JavaScript, CSS |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rdtngh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-**🎯 Current Learning Goals**
+## Featured Projects
 
-```
-📱 Mobile Development → Advanced Kotlin & Jetpack Compose
-🤖 Machine Learning → TensorFlow & Data Science
-🏗️ System Design → Scalable Architecture
-☁️ Cloud Tech → Firebase & AWS basics
-📊 Data Analytics → Python & SQL deep dive
-```
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **FoodSaver Mobile App** | Android application for managing food waste and promoting sustainability | Kotlin, Firebase, Android Studio |
+| **Web Information System** | Information portal and management system | React, PHP, MySQL |
+| **Data Mining Project** | Data analysis and visualization of structured datasets | Python, Pandas, Scikit-learn |
 
 ---
 
-**💡 Fun Facts About Me**
+## Currently Learning
 
-- ⚡ I believe in "Build small, ship fast"
-- 🎮 Love turning ideas into working products
-- 📚 Continuous learner and tech enthusiast
-- 🌍 Open to collaborations and new opportunities
-- 🎨 UI/UX design enthusiast
+- **Mobile Development**: Advanced Kotlin & Jetpack Compose
+- **Machine Learning**: TensorFlow & deep learning pipelines
+- **System Architecture**: Designing scalable applications
+- **Cloud Technologies**: Firebase & AWS fundamentals
+- **Data Science**: Python analytics & SQL optimization
 
 ---
 
-**✨ Connect With Me**
+## Connect With Me
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-rdtngh-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/rdtngh)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raditya%20Alrasyid-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/raditya-alrasyid-376613331?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-[![Instagram](https://img.shields.io/badge/Instagram-@rdtngh-E1306C?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/rdtngh?igsh=dHExcGdvYWltcGR4)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:radityalrasyid@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rdtngh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raditya-alrasyid-376613331)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/rdtngh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:radityalrasyid@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QaMcXlSnrfpMaalfjO/giphy.gif" alt="footer-gif" width="200" />
-  
-  **Made with ❤️ by Raditya Alrasyid Nugroho**
-  
-  *Last updated: May 2026*
-  
+
+**Continuously learning, building, and exploring new technologies**
+
 </div>
-
----
-
-

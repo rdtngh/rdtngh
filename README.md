@@ -1,11 +1,17 @@
-# Raditya Alrasyid Nugroho
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=06B6D4&center=true&width=600&lines=Informatics+Student;Mobile+Developer;Full+Stack+Enthusiast;Data+Science+Explorer;Software+Engineer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=140&section=header&text=Raditya%20Alrasyid%20Nugroho&fontSize=42&fontColor=ffffff&fontAlign=50&color=0a1220&gradient=1&animation=fadeIn" alt="Raditya Alrasyid Nugroho" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rdtngh&color=06B6D4&style=flat-square" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2400&pause=900&color=00d9ff&center=true&vCenter=true&width=760&lines=Informatics+Student;Future+Software+Engineer;Mobile+%26+Web+Developer;Data+Science+Explorer;Building+Clean+Digital+Products" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  *Building clean, cyber-inspired apps with modern mobile, web, and data solutions.*
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rdtngh&color=00d9ff&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -52,17 +58,17 @@ Informatics student with a passion for building applications that matter. I focu
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,python" height="40" alt="Languages" />
+<sub>Core tools & libraries I use every day</sub>
 
-### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,androidstudio" height="40" alt="Frontend & Mobile" />
+<br />
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=mysql,firebase,php" height="40" alt="Backend & Database" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,python" height="42" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=react,androidstudio,flutter" height="42" alt="Frontend & Mobile" />
 
-### Tools & Version Control
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="40" alt="Tools" />
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,php,nodejs,postgres" height="42" alt="Backend & Database" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" height="42" alt="Tools" />
 
 </div>
 
@@ -71,37 +77,43 @@ Informatics student with a passion for building applications that matter. I focu
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdtngh&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdtngh&theme=dark" alt="GitHub Stats" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rdtngh&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rdtngh&theme=dark" alt="Repos per Language" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rdtngh&theme=tokyonight" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rdtngh&theme=dark" alt="Most Commit Language" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rdtngh&theme=tokyonight" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rdtngh&theme=dark" alt="Profile Details" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=rdtngh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=rdtngh&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ## Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **FoodSaver Mobile App** | Android application for managing food waste and promoting sustainability | Kotlin, Firebase, Android Studio |
-| **Web Information System** | Information portal and management system | React, PHP, MySQL |
-| **Data Mining Project** | Data analysis and visualization of structured datasets | Python, Pandas, Scikit-learn |
+<div align="center">
+
+- **FoodSaver Mobile App** — Android app that helps manage food waste with clean UI and Firebase sync.
+- **Web Information System** — Information portal for efficient data management and reporting.
+- **Data Mining Project** — Dataset analysis and visualization with Python, Pandas, and Scikit-learn.
+
+</div>
 
 ---
 
 ## Currently Learning
 
-- **Mobile Development**: Advanced Kotlin & Jetpack Compose
-- **Machine Learning**: TensorFlow & deep learning pipelines
-- **System Architecture**: Designing scalable applications
-- **Cloud Technologies**: Firebase & AWS fundamentals
-- **Data Science**: Python analytics & SQL optimization
+<div align="center">
+
+- **Mobile Development** — Kotlin & Jetpack Compose
+- **Machine Learning** — TensorFlow and practical model pipelines
+- **System Architecture** — Scalable app design and clean architecture
+- **Cloud Technologies** — Firebase, AWS, and deployment flows
+- **Data Science** — Python analytics, SQL, and visualization
+
+</div>
 
 ---
 
@@ -109,10 +121,10 @@ Informatics student with a passion for building applications that matter. I focu
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rdtngh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raditya-alrasyid-376613331)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/rdtngh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:radityalrasyid@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0a1220&labelColor=071427)](https://github.com/rdtngh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0a1220&labelColor=071427)](https://www.linkedin.com/in/raditya-alrasyid-376613331)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0a1220&labelColor=071427)](https://www.instagram.com/rdtngh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0a1220&labelColor=071427)](mailto:radityalrasyid@gmail.com)
 
 </div>
 

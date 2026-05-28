@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2400&pause=900&color=00d9ff&center=true&vCenter=true&width=760&lines=Informatics+Student;Future+Software+Engineer;Mobile+%26+Web+Developer;Data+Science+Explorer;Building+Clean+Digital+Products" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  *Building clean, cyber-inspired apps with modern mobile, web, and data solutions.*
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rdtngh&color=00d9ff&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ## $ whoami
